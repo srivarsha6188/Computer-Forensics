@@ -1,9 +1,9 @@
 # Computer-Forensics  
 Implementing enron_search: an Email Forensic Analysis Tool
 ## Team Members
-Sri Varsha Nagulanchi (A04269444) 
-Anthony Sharanya Reddy (A04269469)
-Bhargav Ram Navuluri (A04280768)
+##### Sri Varsha Nagulanchi (A04269444) 
+##### Anthony Sharanya Reddy (A04269469)
+##### Bhargav Ram Navuluri (A04280768)
 ##### `GitHub`- https://github.com/srivarsha6188/Computer-Forensics
 ### Installation
 Install lastest version of Intellij make sure set all the configuration and install latest version of jre 
